@@ -3,6 +3,7 @@
 [![TravisCI Build Status](https://travis-ci.org/drapergem/draper.svg?branch=master)](http://travis-ci.org/drapergem/draper)
 [![Code Climate](https://codeclimate.com/github/drapergem/draper.svg)](https://codeclimate.com/github/drapergem/draper)
 [![Inline docs](http://inch-ci.org/github/drapergem/draper.svg?branch=master)](http://inch-ci.org/github/drapergem/draper)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fdraper.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fdraper?ref=badge_shield)
 
 Draper adds an object-oriented layer of presentation logic to your Rails
 application.
@@ -644,3 +645,7 @@ great community of open source
 * Vasiliy Ermolovich
 * Andrew Haines
 * Sean Linsley
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fdraper.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fdraper?ref=badge_large)
